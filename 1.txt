@@ -1,7 +1,6 @@
 My first github practice!
 add time！
-<<<<<<< HEAD
-add N1ame！
+add Name！
 =======
-add name！
+add neme！
 
